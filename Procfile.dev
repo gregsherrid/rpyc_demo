@@ -1,0 +1,3 @@
+api: python server.py
+service1: python answer_service.py
+service2: python prime_service.py
